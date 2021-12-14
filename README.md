@@ -10,7 +10,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
   - https://github.com/IvanOJ23/Project-1-ELK/blob/main/Ansible/Filebeat-Playbook.yml
   - https://github.com/IvanOJ23/Project-1-ELK/blob/main/Ansible/Metricbeat-Playbook.yml
-  - https://github.com/IvanOJ23/Project-1-ELK/blob/main/Install-ELK.yml
+  - https://github.com/IvanOJ23/Project-1-ELK/blob/main/Ansible/Install-ELK.yml
 
 This document contains the following details:
 - Description of the Topologu
